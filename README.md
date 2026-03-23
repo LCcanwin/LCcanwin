@@ -1,4 +1,4 @@
-# 👋 你好, 我是 [CashMolin]
+# 👋 你好, 我是 CashMolin
 
 ### 🚀 资深 Java R&D 工程师 | AI Agent 开发者
 
@@ -19,7 +19,7 @@
 
 ## 🤖 AI 探索与项目 (Featured AI Projects)
 
-### 1. [Java-Code-Reviewer-Agent]
+### 1. Java-Code-Reviewer-Agent
 * 深度集成 **Alibaba Java 开发手册**，利用 LLM 对 PR 进行语义级审查。
 * 专注于识别潜在的 Full GC 风险与线程安全隐患。
 
@@ -36,7 +36,6 @@
 ## 📊 GitHub 统计
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LCcanwin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCcanwin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
@@ -46,5 +45,5 @@
 
 * 🔭 **正在寻找**：AI Agent 架构、大模型应用开发相关的技术挑战。
 * 🏍 **生活兴趣**：业余时间是一名摩托车骑行爱好者以及健身爱好者，喜欢探索城市周边美食。
-* 📬 **联系方式**：[lcjianye@gmail.com] 
+* 📬 **联系方式**：lcjianye@gmail.com 
 * 📍 **坐标**：成都 (Chengdu, China)
